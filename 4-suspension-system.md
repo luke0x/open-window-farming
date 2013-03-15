@@ -2,9 +2,17 @@
 
 ## 4. Suspension System
 
-Tools/Materials needed for this step:
-measuring tape, wire snips
-Bead Chain, Bead Chain Couplers
+### Tools
+
+* measuring tape
+* wire snips
+
+### Materials
+
+* Bead Chain
+* Bead Chain Couplers
+
+***
 
 1. You can use other materials like string to hang your windowfarm cheaper. Bead chain is much easier to take on and off for cleaning, is stable, easy to adjust, modular and makes a great tube cleaner for algae buildup too.
 

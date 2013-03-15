@@ -2,9 +2,27 @@
 
 ## 6. Plumbing System
 
-Tools/Materials needed for this step:
-Tape measure, marker, scissors, needle nose pliers, hacksaw or razor blade, fine grit sand paper
-Rigid Tubing, Flexible Vinyl Tubing, Check Valve, Poland Springs "sports" drinking cap, Metal inflation needle, Presta stem, Sealing washers, Plant tape
+### Tools
+
+* Tape measure
+* marker
+* scissors
+* needle nose pliers
+* hacksaw or razor blade
+* fine grit sand paper
+
+### Materials
+
+* Rigid Tubing
+* Flexible Vinyl Tubing
+* Check Valve
+* Poland Springs "sports" drinking cap
+* Metal inflation needle
+* Presta stem
+* Sealing washers
+* Plant tape
+
+***
 
 1. Mark the rigid tube with a marker to create three lengths: 28.5 inches (72.4 cm) 28.5 inches (72.4 cm) 3 inches (7.6 cm)
 

@@ -2,8 +2,19 @@
 
 ## 7. Adding Lights
 
-Tools/Materials needed for this step:
-(2) CFL bulbs (full color spectrum), (1) cup hook, (1) lamp socket on wire, (1) lamp pin socket, 18" (46 cm) bead chain measuring tape, snips, drill
+### Tools
+
+* measuring tape
+* snips
+* drill
+
+### Materials
+
+* (2) CFL bulbs (full color spectrum)
+* (1) cup hook
+* (1) lamp socket on wire, (1) lamp pin socket, 18" (46 cm) bead chain 
+
+***
 
 1. Start with a corded clip light and remove the shade. Consider using CFL bulbs with plastic domes to help prevent shattering of the bulb against your window.
 

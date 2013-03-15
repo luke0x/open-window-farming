@@ -2,8 +2,15 @@
 
 ## 8. Adding Plants
 
+### Materials
+
+* Hydroton clay pellets
+* Plastic net cups
+* Plants
+
+***
+
 Tools/Materials needed for this step:
-Hydroton clay pellets, Plastic net cups, Plants
 
 1. If using plants that were grown in soil, start by shaking-out the soil thoroughly.
 

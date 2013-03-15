@@ -2,9 +2,16 @@
 
 ## 5. Mounting & Installation
 
-Tools/Materials needed for this step:
-measuring tape, drill
-(2) Cup Hooks
+### Tools
+
+* measuring tape
+* drill
+
+### Materials
+
+* (2) Cup Hooks
+
+***
 
 1. For each column of bottles, put two cuphooks into the wall above the window, spaced 4" (10 cm) apart.
 

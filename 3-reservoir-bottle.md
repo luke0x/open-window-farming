@@ -2,9 +2,17 @@
 
 ## 3. Reservoir Bottle
 
-Tools/Materials needed for this step:
-Tools: 1" (2.5 cm) diameter hole saw, marker, razor blade with fresh blade(s)
-Materials: (1) 1.5 liter bottle
+### Tools
+
+* 1" (2.5 cm) diameter hole saw
+* marker
+* razor blade with fresh blade(s)
+
+### Materials
+
+* (1) 1.5 liter bottle
+
+***
 
 1. Find the bottle that was masked from the bottom to top with a 1" (2.5 cm) band. This is your Bottom Reservoir Bottle. Using 1" (2.5 cm) diameter drill bit, drill a hole in the bottom of the bottle. Go slow and steady when drilling so that the bottle will not collapse. It will take approximately 20-30 seconds before the bit will pierce the plastic.
 

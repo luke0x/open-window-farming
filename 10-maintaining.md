@@ -2,9 +2,20 @@
 
 ## 10. Maintaining
 
-Tools/Materials needed for this step:
-measuring tape, scissors, snips
-Plant Nutrient Solution or Powder, Bead Chain, Bead Chain Coupler, Cotton String
+### Tools
+
+* measuring tape
+* scissors
+* snips
+
+### Materials
+
+* Plant Nutrient Solution or Powder
+* Bead Chain
+* Bead Chain Coupler
+* Cotton String
+
+***
 
 1. Adding Water Fill the reservoir bottle with enough water to reach just below the hole. Water will evaporate from your system and will need replacement. Expect to top-off the system 2-3 times per week. However, conditions will vary effecting the rate at which more water is needed. Winter seasons and dry environments will require more frequent watering.
 
@@ -16,13 +27,13 @@ Plant Nutrient Solution or Powder, Bead Chain, Bead Chain Coupler, Cotton String
 
 3. Adding Nutrients
 
-    * Phase 1 - First ten days after plants develop roots) 1 teaspoon per gallon 3-20-20 (+ pinch=0.1 teaspoon epsom)= 1/2 teaspoon per bottle twice a week for 6 weeks= 4.75 teaspoons;
+    1. Phase 1 - First ten days after plants develop roots) 1 teaspoon per gallon 3-20-20 (+ pinch=0.1 teaspoon epsom)= 1/2 teaspoon per bottle twice a week for 6 weeks= 4.75 teaspoons;
 
-    * Phase 2 - Seedling through vegetative phase) .396 teaspoon Maxsea 16-16-16 twice a week (+ pinch=0.1 teaspoon epsom) for 6 weeks= 4.75 Maxsea 16-16-16; 
+    2. Phase 2 - Seedling through vegetative phase) .396 teaspoon Maxsea 16-16-16 twice a week (+ pinch=0.1 teaspoon epsom) for 6 weeks= 4.75 Maxsea 16-16-16; 
 
-    * Phase 3 - Transition, last 2 weeks before flowering) 0.198 each of both kinds of Maxsea twice a week (+ pinch=0.1 teaspoon epsom) for approximately 2 weeks= 3/4 teaspoons of each Maxsea; Phase 4- Flowering and fruiting) 2 teaspoons per gallon of 3-20-20 (+ pinch=0.1 teaspoon epsom) = 3/4 twice per week for 4 weeks= 6.25 teaspoons Phase 5- Last 10-15 days before harvest) Feed your plants only water to flush the system
+    3. Phase 3 - Transition, last 2 weeks before flowering) 0.198 each of both kinds of Maxsea twice a week (+ pinch=0.1 teaspoon epsom) for approximately 2 weeks= 3/4 teaspoons of each Maxsea; Phase 4- Flowering and fruiting) 2 teaspoons per gallon of 3-20-20 (+ pinch=0.1 teaspoon epsom) = 3/4 twice per week for 4 weeks= 6.25 teaspoons Phase 5- Last 10-15 days before harvest) Feed your plants only water to flush the system
 
-    ![](images/10_2.jpg)
+  ![](images/10_2.jpg)
 
 4. Setting the timers At first, set the timer on a 15 minute interval as pictured. Adjust as you observe plant response. Consult the web community for recommendations on pump and lighting (optional) schedules for the different life stages of your plants. Consult the timer's package for directions on setting the timer.
 

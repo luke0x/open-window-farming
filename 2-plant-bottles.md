@@ -2,9 +2,17 @@
 
 ## 2. Plant Bottles
 
-Tools/Materials needed for this step:
-Tools: 1" (2.5 cm) diameter hole saw, marker, razor blade with fresh blade(s)
-Materials: (4) 1.5 liter bottles
+### Tools
+
+* 1" (2.5 cm) diameter hole saw
+* marker
+* razor blade with fresh blade(s)
+
+### Materials
+
+* (4) 1.5 liter bottles
+
+***
 
 1. Gather the 4 bottles that were masked from the waist to the base. These are your Plant Bottles. Using 1" diameter drill bit, drill a hole in the bottom of each bottle. Go slow and steady when drilling so that the bottle will not collapse. It will take approximately 20-30 seconds before the bit will pierce the plastic.
 

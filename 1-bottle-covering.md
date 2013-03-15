@@ -2,9 +2,18 @@
 
 ## 1. Bottle Covering
 
-Tools/Materials needed for this step:
-Tools: painter's masking tape, scissors
-Materials: (5) 1.5 liter bottles, white paint, masking tape
+### Tools
+
+* painter's masking tape
+* scissors
+
+### Materials
+
+* (5) 1.5 liter bottles
+* white paint
+* masking tape
+
+***
 
 1. Welcome to the Instructions for MAMA! The Windowfarms Version 3.0 Modular Airlift Multicolumn Array (MAMA). Please make sure you have registered on our.windowfarms.org, including having accepted the terms of service for participating in this open design community project. Registering will pass on to you a royalty-free license for you to use this community developed patent pending design for non-commercial purposes. Please use the Feedback button on the right to submit your ideas, questions, test results, and praise. ---------> Remember that this is an citizen technology project, so if you have an idea or an issue, research and develop it yourself (R&D-I-Y)! Propose a change to the community, get others to help you test how well it works, and then present your results. If it's a viable, universal solution to a common problem, it may be folded in to the next version release!
 
