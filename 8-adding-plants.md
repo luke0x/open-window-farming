@@ -10,8 +10,6 @@
 
 ***
 
-Tools/Materials needed for this step:
-
 1. If using plants that were grown in soil, start by shaking-out the soil thoroughly.
 
     ![](images/8_0.jpg)
