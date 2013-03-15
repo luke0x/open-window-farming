@@ -1,5 +1,4 @@
-# Windowfarms
-# Version 3.0 How-To Instructions
+# Windowfarms How-To Instructions Version 3.0
 
 ## Downloads
 

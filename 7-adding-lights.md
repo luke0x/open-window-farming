@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Adding Lights
+## 7. Adding Lights
 
 Tools/Materials needed for this step:
 (2) CFL bulbs (full color spectrum), (1) cup hook, (1) lamp socket on wire, (1) lamp pin socket, 18" (46 cm) bead chain measuring tape, snips, drill

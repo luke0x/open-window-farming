@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Full Assembly
+## 9. Full Assembly
 
 Tools/Materials needed for this step:
 

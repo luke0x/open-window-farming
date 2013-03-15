@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Reservoir Bottle
+## 3. Reservoir Bottle
 
 Tools/Materials needed for this step:
 Tools: 1" (2.5 cm) diameter hole saw, marker, razor blade with fresh blade(s)

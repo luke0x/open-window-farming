@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Maintaining
+## 10. Maintaining
 
 Tools/Materials needed for this step:
 measuring tape, scissors, snips

@@ -2,6 +2,8 @@
 
 DIY instructions for building your own vertical hydroponic window farm.
 
+[Instructions](index.md)
+
 ## License
 
 Originally published under the [Creative Commons Attribution Non-Commercial Share-Alike 2.5 Generic license](http://creativecommons.org/licenses/by-nc-sa/2.5/) at [our.Windowfarms](http://our.windowfarms.org/instructions_dev/).

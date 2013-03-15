@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Suspension System
+## 4. Suspension System
 
 Tools/Materials needed for this step:
 measuring tape, wire snips

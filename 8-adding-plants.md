@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Adding Plants
+## 8. Adding Plants
 
 Tools/Materials needed for this step:
 Hydroton clay pellets, Plastic net cups, Plants

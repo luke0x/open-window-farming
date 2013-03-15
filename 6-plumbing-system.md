@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Plumbing System
+## 6. Plumbing System
 
 Tools/Materials needed for this step:
 Tape measure, marker, scissors, needle nose pliers, hacksaw or razor blade, fine grit sand paper

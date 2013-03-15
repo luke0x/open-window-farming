@@ -1,6 +1,6 @@
 [&larr; Overview](index.md)
 
-## Mounting & Installation
+## 5. Mounting & Installation
 
 Tools/Materials needed for this step:
 measuring tape, drill
