@@ -30,124 +30,59 @@ Check valve type and inclusion of lights will influence your final parts list.
 
 ### Aquatic Supplies
 
-Item #
-Part
-Quantity
-Source
-1
-Air Pump (preferrably with control dial)
-1 (different configs available)
-Aquarium store or Petco.com #9901, #9902, or #9904
-2 3
-Check Valve (included with PetCo pump) Air line Tubing (included with PetCo pump)
-1
-(1) 2.5’ length
-Aquarium store or Petco.com Aquarium store or Petco.com
+Item # | Part | Quantity | Source
+--- | --- | --- | ---
+1 | Air Pump (preferrably with control dial) | 1 (different configs available) [S] | Aquarium store or Petco.com #9901, #9902, or #9904
+2 | Check Valve (included with PetCo pump) | 1 | Aquarium store or Petco.com
+3 | Air line Tubing (included with PetCo pump) | (1) 2.5’ length | Aquarium store or Petco.com
 
 ### Recycled Supplies
 
-Item #
-Part
-Quantity
-Source
-4 5 6
-1.5 liter Deer Park, Ice Mountain, Ozarka, Poland Spring, Zephyrhills, Arrowhead, or Calistoga drinking water bottles
-5 1 1
-Recycling bin or trash can Recycling bin or trash can Bike shop
-Item #
-Part
-Quantity
-Source
-10 11 12
+Item # | Part | Quantity | Source
+--- | --- | --- | ---
+4 | 1.5 liter Deer Park, Ice Mountain, Ozarka, Poland Spring, Zephyrhills, Arrowhead, or Calistoga drinking water bottles | 5 | Recycling bin or trash can
+5 | Sports drinking cap from one of the same brand of bottles (For use in Bottom Bottle Cap Assembly **METHOD A**) | 1 | Recycling bin or trash can
+6 | Presta Threaded Long Stem Bicycle Inner Tube (with the nut!) (For use in Bottom Bottle Cap Assembly **METHOD B**) | 1 | Bike shop
 
 ### Hydroponics Supplies
 
-Hydroponics store Hydroponics store
-7 8 9
-Hydroton clay pellets
-3-inch diameter net cups
-Plant tape
-Maxsea All Purpose16-16-16
-Maxsea Bloom 3-20-20
-Grow cubes (if growing plants from seeds)
-1 liter
-4
-3 feet
-5 tablespoons 5 tablespoons > 1 dozen
-Hydroponics store or HomeHarvest.com #HYD5LT Hydroponics store or HomeHarvest.com #NET3IN Hardware store or Hydroponics store
-Hydroponics store
-Sports drinking cap from one of the same brand of bottles (For use in Bottom Bottle Cap Assembly METHOD A)
-Presta Threaded Long Stem Bicycle Inner Tube (with the nut!) (For use in Bottom Bottle Cap Assembly METHOD B)
+Item # | Part | Quantity | Source
+--- | --- | --- | ---
+7 | Hydroton clay pellets | 1 liter | Hydroponics store or HomeHarvest.com #HYD5LT
+8 | 3-inch diameter net cups | 4 | Hydroponics store or HomeHarvest.com #NET3IN
+9 | Plant tape | 3 feet | Hardware store or Hydroponics store
+10 | Maxsea All Purpose 16-16-16 | 5 tablespoons | Hydroponics store
+11 | Maxsea Bloom 3-20-20 | 5 tablespoons | Hydroponics store
+12 | Grow cubes (if growing plants from seeds) | \> 1 dozen | Hydroponics store
 
 ### Hardware Supplies
 
-Item #
-Part
-Quantity
-Source
-13 14 15 16 17
-Printout of bottle templates found in this document 2” wide masking tape
-1” wide electrical tape or masking tape
-White Spray paint
-1 each
-1 roll
-far less than 1 roll 1 can
-1
-Your printer or a copy shop Hardware store
-Hardware store
-Hardware store
-18
-19
-20
-21
-22
-23
-24
-25
-26
-Baking Soda
-far less than 1 box 3 tablespoons
-2 feet
-1 foot
-Grocery store Grocery store Hardware store Hardware store Hardware store Hardware store Hardware store Hardware store Hardware store
-27 28
-1” diameter carbide grit ceramic hole saw with pilot/arbor Electrical timer (capable of 4 on/offs per hour)
-1 1
-Hardware store Hardware store
-Metal inflation needle with internal threads (metal needle used to inflate a sports ball with a bike pump)
-Sports equipment store
-Epsom Salts (magnesium sulfate)
-Cotton yarn
-3/8” ID flexible vinyl tubing
-3/8” OD 1/4” ID rigid tubing
-6 feet
-180” (+ 18” per light column) 12 (+1 per light column)
-2 (+1 per light column)
-2
-/ McMaster.com #9245K17 / McMaster.com #3606T16 / McMaster.com #3606T41
-Bead chain
-Bead chain couplings (with center hole)
-Screw hooks/cup hooks
-Sealing washers (For use in Bottom Bottle Cap Assembly METHOD A)
-/ McMaster.com #94709A214 / McMaster.com #7993K42
+Item # | Part | Quantity | Source
+--- | --- | --- | ---
+13 | Printout of bottle templates found in this document | 1 each [S] | Your printer or a copy shop
+14 | 2” wide masking tape | 1 roll | Hardware store
+15 | 1” wide electrical tape or masking tape | far less than 1 roll | Hardware store
+16 | White Spray paint | 1 can | Hardware store
+17 | Metal inflation needle with internal threads (metal needle used to inflate a sports ball with a bike pump) | 1 | Sports equipment store
+18 | Baking Soda | far less than 1 box | Grocery store
+19 | Epsom Salts (magnesium sulfate) | 3 tablespoons | Grocery store
+20 | Cotton yarn | 2 feet [S] | Hardware store
+21 | 3/8” ID flexible vinyl tubing | 1 foot | Hardware store
+22 | 3/8” OD 1/4” ID rigid tubing | 6 feet | Hardware store / McMaster.com #9245K17
+23 | Bead chain | 180” (+ 18” per light column) | Hardware store / McMaster.com #3606T16
+24 | Bead chain couplings (with center hole) | 12 (+1 per light column) | Hardware store / McMaster.com #3606T41
+25 | Screw hooks/cup hooks | 2 (+1 per light column) | Hardware store
+26 | Sealing washers (For use in Bottom Bottle Cap Assembly **METHOD A**) | 2 | Hardware store / McMaster.com #94709A214
+27 | 1” diameter carbide grit ceramic hole saw with pilot/arbor | 1 [S] | Hardware store
+28 | Electrical timer (capable of 4 on/offs per hour) | 1 [S] | Hardware store / McMaster.com #7993K42
 
 ### Lighting Supplies (optional)
 
-Item #
-Part
-Quantity
-Source
-29
-Compact Fluorescent (CFL) light bulbs in Daylight Spectrum (5500+ Kelvin color temperature) 100 watt incandescent equivalent or 27 actual watts
-2 (per light column)
-Hardware store
-or Home Depot
-30 31
-Clip light or electrical cable with 1 socket end Pin lamp socket
-1 (per light column) 1 (per light column)
-Hardware store Hardware store
-or Home Depot
-or 1000bulbs.com #CAGE-521WP
+Item # | Part | Quantity | Source
+--- | --- | --- | ---
+29 | Compact Fluorescent (CFL) light bulbs in Daylight Spectrum (5500+ Kelvin color temperature) 100 watt incandescent equivalent or 27 actual watts | 2 (per light column) | Hardware store or Home Depot
+30 | Clip light or electrical cable with 1 socket end | 1 (per light column) | Hardware store or Home Depot
+31 | Pin lamp socket | 1 (per light column) | Hardware store or 1000bulbs.com #CAGE-521WP
 
 
 ### Parts List Footnotes
