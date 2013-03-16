@@ -4,7 +4,7 @@
 
 Quantities listed on the following pages are the materials to build 1 WindowFarm column.
 
-If building more than one column, not all parts are necessary to multiply. These parts are considered ‘scalable’ and denoted with [S]. Do not multiply these quantities. Multiply all other quantities by the number of columns you want to make. We recommend up to 4 columns to start.
+If building more than one column, not all parts are necessary to multiply. These parts are considered ‘scalable’ and denoted with **[S]**. Do not multiply these quantities. Multiply all other quantities by the number of columns you want to make. We recommend up to 4 columns to start.
 
 Quantites listed on the following pages for consumable items (e.g. nutrient solutions) are for a 6 month supply for 1 column.
 
@@ -12,7 +12,7 @@ Check valve type and inclusion of lights will influence your final parts list.
 
 **Important Footnotes follow the parts list.**
 
-### Basic Tools [S]
+### Basic Tools **[S]**
 
 * Hutzpah and some brains!
 * Step ladder
@@ -32,7 +32,7 @@ Check valve type and inclusion of lights will influence your final parts list.
 
 Item # | Part | Quantity | Source
 --- | --- | --- | ---
-1 | Air Pump (preferrably with control dial) | 1 (different configs available) [S] | Aquarium store or Petco.com #9901, #9902, or #9904
+1 | Air Pump (preferrably with control dial) | 1 (different configs available) **[S]** | Aquarium store or Petco.com #9901, #9902, or #9904
 2 | Check Valve (included with PetCo pump) | 1 | Aquarium store or Petco.com
 3 | Air line Tubing (included with PetCo pump) | (1) 2.5’ length | Aquarium store or Petco.com
 
@@ -59,22 +59,22 @@ Item # | Part | Quantity | Source
 
 Item # | Part | Quantity | Source
 --- | --- | --- | ---
-13 | Printout of bottle templates found in this document | 1 each [S] | Your printer or a copy shop
+13 | Printout of bottle templates found in this document | 1 each **[S]** | Your printer or a copy shop
 14 | 2” wide masking tape | 1 roll | Hardware store
 15 | 1” wide electrical tape or masking tape | far less than 1 roll | Hardware store
 16 | White Spray paint | 1 can | Hardware store
 17 | Metal inflation needle with internal threads (metal needle used to inflate a sports ball with a bike pump) | 1 | Sports equipment store
 18 | Baking Soda | far less than 1 box | Grocery store
 19 | Epsom Salts (magnesium sulfate) | 3 tablespoons | Grocery store
-20 | Cotton yarn | 2 feet [S] | Hardware store
+20 | Cotton yarn | 2 feet **[S]** | Hardware store
 21 | 3/8” ID flexible vinyl tubing | 1 foot | Hardware store
 22 | 3/8” OD 1/4” ID rigid tubing | 6 feet | Hardware store / McMaster.com #9245K17
 23 | Bead chain | 180” (+ 18” per light column) | Hardware store / McMaster.com #3606T16
 24 | Bead chain couplings (with center hole) | 12 (+1 per light column) | Hardware store / McMaster.com #3606T41
 25 | Screw hooks/cup hooks | 2 (+1 per light column) | Hardware store
 26 | Sealing washers (For use in Bottom Bottle Cap Assembly **METHOD A**) | 2 | Hardware store / McMaster.com #94709A214
-27 | 1” diameter carbide grit ceramic hole saw with pilot/arbor | 1 [S] | Hardware store
-28 | Electrical timer (capable of 4 on/offs per hour) | 1 [S] | Hardware store / McMaster.com #7993K42
+27 | 1” diameter carbide grit ceramic hole saw with pilot/arbor | 1 **[S]** | Hardware store
+28 | Electrical timer (capable of 4 on/offs per hour) | 1 **[S]** | Hardware store / McMaster.com #7993K42
 
 ### Lighting Supplies (optional)
 
