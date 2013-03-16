@@ -1,10 +1,5 @@
 # Windowfarms How-To Instructions Version 3.0
 
-## Downloads
-
-* [Parts List](pdfs/parts_list.pdf) [PDF]
-* [Bottle Cutting Templates](pdfs/bottle_cutting_templates.pdf) [PDF]
-
 ## Overview
 
 1. [Bottle Covering](1-bottle-covering.md)
@@ -17,3 +12,8 @@
 8. [Adding Plants](8-adding-plants.md)
 9. [Full Assembly](9-full-assembly.md)
 10. [Maintaining](10-maintaining.md)
+
+## Reference
+
+* [Parts List](parts_list.md)
+* [Bottle Cutting Templates [PDF]](pdfs/bottle_cutting_templates.pdf)
